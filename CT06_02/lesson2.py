@@ -46,7 +46,7 @@ for color in rainbow_colors:
     # next code
 # create secret pass varible
 # ask user what the pass is
-# if pass =
+# if answer
 # 
 # 
 # 
