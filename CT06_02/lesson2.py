@@ -44,7 +44,7 @@ for color in rainbow_colors:
     # step 6:If item = metal
     # step 7:change metal bin by 1
     # next code
-# 
+# create 
 # 
 # 
 # 
