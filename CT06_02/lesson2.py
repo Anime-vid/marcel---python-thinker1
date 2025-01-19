@@ -45,7 +45,7 @@ for color in rainbow_colors:
     # step 7:change metal bin by 1
     # next code
 # create secret pass varible
-# secret pass = pass1234
+# secret pass = pass1234567891011121314151617181920
 # ask user what the pass is
 # if answer = secret pass
 # say wow u did it
