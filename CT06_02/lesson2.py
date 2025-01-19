@@ -21,3 +21,8 @@ for color in rainbow_colors:
     # step 4:turn 15degrees
     #step 5:change counter by 10
 # next code
+# step 1: ask what is your age
+# step 2: if answer < 10
+# step 4:say Access Denied
+# step 5:else
+# step 6:say Access Granted
