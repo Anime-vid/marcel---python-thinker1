@@ -49,8 +49,8 @@ for color in rainbow_colors:
 # ask user what the pass is
 # if answer = secret pass
     # say wow u did it
-        # else
-# say womp womp
+# else
+        # say womp womp
 # 
 # 
 # 
