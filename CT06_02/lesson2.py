@@ -23,6 +23,6 @@ for color in rainbow_colors:
 # next code
 # step 1: ask what is your age
 # step 2: if answer < 10
-# step 4:say Access Denied
-# step 5:else
-# step 6:say Access Granted
+    # step 4:say Access Denied
+    # step 5:else
+    # step 6:say Access Granted
