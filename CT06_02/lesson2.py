@@ -45,7 +45,7 @@ for color in rainbow_colors:
     # step 7:change metal bin by 1
     # next code
 # create secret pass varible
-# 
+# ask user 
 # 
 # 
 # 
