@@ -10,4 +10,4 @@ print("orange")
 print("yellow")
 print("purple")
 print("green")
-print
+print("blue")
