@@ -14,7 +14,7 @@ for color in rainbow_colors:
 # step 1: repeat 10 times
     # step 2: say hey
     # step 3:walk 10 steps
-
+# next
 # step 1: set counter 0
 # step 2: repeat until counter = 50
     #step 3:move 10
