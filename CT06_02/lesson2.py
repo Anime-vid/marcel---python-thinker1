@@ -47,8 +47,8 @@ for color in rainbow_colors:
 # create secret pass varible
 # ask user what the pass is
 # if answer = secret pass
-# 
-# 
+# say wow u did it
+# else 
 # 
 # 
 # 
