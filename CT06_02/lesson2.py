@@ -26,4 +26,20 @@ for color in rainbow_colors:
     # step 4:say Access Denied
 # step 5:else
     # step 6:say Access Granted
-    
+#     recycling bin:
+# glass things
+# plastic things
+# paper things
+# metal things
+# rubbish
+# varables:
+# create glass bin variable
+# create plastic bin variable
+# create plastic bin variable
+# step 1:go through the recycling bin one by one,until theres nothing inside
+# step 2:If item = glass
+# step 3:change glass bin by 1
+# step 4:If item = paper
+# step 5:change paper bin by 1
+# step 6:If item = metal
+# step 7:change metal bin by 1
