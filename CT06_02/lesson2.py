@@ -11,3 +11,6 @@ rainbow_colors = ["Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"
 # Print each color in the rainbow
 for color in rainbow_colors:
     print(color)
+# step 1: repeat 10 times
+# step 2: say hey
+# step 3:walk 10 steps
