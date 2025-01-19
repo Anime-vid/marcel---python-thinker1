@@ -43,3 +43,4 @@ for color in rainbow_colors:
     # step 5:change paper bin by 1
     # step 6:If item = metal
     # step 7:change metal bin by 1
+    # 
