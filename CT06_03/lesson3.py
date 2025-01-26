@@ -7,4 +7,4 @@
 # step 2: divide scores by number of students
 # step 3: print answer
 age = 12
-print
+print(age)
