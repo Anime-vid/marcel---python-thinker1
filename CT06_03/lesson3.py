@@ -8,6 +8,5 @@
 # step 3: print answer
 age = 12
 print(age)
-x = 10
-x = 20
+"x" = 10
 print(x)
