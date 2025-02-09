@@ -1,1 +1,2 @@
 age = input("age?")
+int()
