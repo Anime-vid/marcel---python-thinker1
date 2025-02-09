@@ -1,3 +1,3 @@
 age = input("age?")
 int(age)
-print("Ne")
+print("Next year you will be " )
