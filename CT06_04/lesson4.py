@@ -1,3 +1,3 @@
 age = input("age?")
-int(age)
-print("Next year you will be " )
+age = int(age) + 1
+print("Next year you will be " + age + "years old")
