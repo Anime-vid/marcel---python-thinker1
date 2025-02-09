@@ -1,1 +1,1 @@
-age = input("")
+age = input("age?")
