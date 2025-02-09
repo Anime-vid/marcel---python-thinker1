@@ -1,3 +1,4 @@
 red = 1
 blue = 2
 green = 3
+num_red = 
