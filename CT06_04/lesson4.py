@@ -1,1 +1,2 @@
-name = input()
+name = input("name?")
+colour = input
