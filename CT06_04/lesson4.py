@@ -5,4 +5,4 @@ print("Next year you will be " + age + " years old")
 num = input("num?")
 num = int(num) * 2
 num = str(num)
-print("Double your number is ")
+print("Double your number is " + num)
