@@ -1,3 +1,3 @@
 name = input("NAME?")
 print("HI," + name)
-hobby = inp
+hobby = input("hobby")
