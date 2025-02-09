@@ -1,2 +1,3 @@
 age = input("age?")
-int()
+int(age)
+print
