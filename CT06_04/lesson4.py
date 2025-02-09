@@ -2,4 +2,5 @@ name = input("name?")
 colour = input("colour?")
 age = ("age?")
 print(name)
-print()
+print(colour)
+print
