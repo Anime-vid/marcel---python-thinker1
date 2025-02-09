@@ -1,6 +1,0 @@
-name = input("name?")
-colour = input("colour?")
-age = input("age?")
-print(name)
-print(colour)
-print(age)
