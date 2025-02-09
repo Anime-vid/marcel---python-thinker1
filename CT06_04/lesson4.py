@@ -5,3 +5,4 @@ num_red = 3
 num_blue = 5
 num_green = 4
 ans = red*num_red + blue* num_blue + green*num_green
+print(ans)
