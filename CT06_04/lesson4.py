@@ -1,2 +1,2 @@
 name = input("name?")
-colour = input("age?")
+colour = input("colour?")
