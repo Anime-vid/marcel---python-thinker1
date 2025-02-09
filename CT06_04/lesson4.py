@@ -1,1 +1,1 @@
-name = input("NA")
+name = input("NAME?")
