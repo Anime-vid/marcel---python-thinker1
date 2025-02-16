@@ -32,6 +32,12 @@ for char in name:
     print("Give me a " + char)
 print("what do we have?")
 print(name + " is the best!")
-for i in range(100):
-    print("i like cake")
-    print("give me more")
+print("NEXT")
+for i in range(1,6):
+    print(i)
+print("NEXT")
+for i in range(51,101):
+    print(i)
+print("NEXT")
+for i in range(18,30):
+    print(i)
