@@ -27,3 +27,4 @@
 
 # # Run the function
 # create_invitation()
+name = input("")
