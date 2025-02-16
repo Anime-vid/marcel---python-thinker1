@@ -1,3 +1,4 @@
+year = 2025
 age = input("age?")
 age = int(age) + 1
 age = str(age) 
