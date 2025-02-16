@@ -8,4 +8,5 @@ num = str(num)
 print("Double your number is " + num)
 born = input("Year born?")
 int = 2025 - (born)
-str = born
+str = (born)
+print()
