@@ -28,3 +28,5 @@
 # # Run the function
 # create_invitation()
 name = input("What is your name?")
+for char in name:
+    
