@@ -7,6 +7,6 @@ num = int(num) * 2
 num = str(num)
 print("Double your number is " + num)
 born = input("Year born?")
-int = 2025 - (born)
+int = (born)
 str = (born)
 print(born)
