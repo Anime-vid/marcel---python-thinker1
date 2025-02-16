@@ -10,4 +10,4 @@ print("Double your number is " + num)
 born = input("Year born?")
 born = int(born)
 born = year - born
-print(born)
+print("You are ")
