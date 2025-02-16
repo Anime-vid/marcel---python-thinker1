@@ -27,5 +27,5 @@
 
 # # Run the function
 # create_invitation()
-for i in range(1):
+for i in range():
     print("i will not sling mud at my friends")
