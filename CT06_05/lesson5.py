@@ -30,3 +30,4 @@
 name = input("What is your name?")
 for char in name:
     print("Give me a " + char)
+pru
