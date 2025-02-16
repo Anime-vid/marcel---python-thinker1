@@ -1,2 +1,2 @@
 name = input("name?")
-age = input(ah)
+age = input("age?")
