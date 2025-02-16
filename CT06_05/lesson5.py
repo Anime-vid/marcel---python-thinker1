@@ -33,4 +33,4 @@ for char in name:
 print("what do we have?")
 print(name + " is the best!")
 for i in range(100):
-    
+    print("i")
