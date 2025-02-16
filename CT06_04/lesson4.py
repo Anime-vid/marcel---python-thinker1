@@ -10,4 +10,5 @@ print("Double your number is " + num)
 born = input("Year born?")
 born = int(born)
 born = year - born
+born = str
 print("You are " + born + " years old.")
