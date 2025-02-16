@@ -29,4 +29,4 @@
 # create_invitation()
 name = input("What is your name?")
 for char in name:
-    print("Give me a" + char)
+    print("Give me a " + char)
