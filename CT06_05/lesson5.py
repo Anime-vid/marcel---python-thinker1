@@ -27,5 +27,3 @@
 
 # # Run the function
 # create_invitation()
-for i in range(100000000000000000000):
-    print("wow so sigma")
