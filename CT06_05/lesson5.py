@@ -27,5 +27,5 @@
 
 # # Run the function
 # create_invitation()
-for q in queen(100000000000000000000):
+for i in range(100000000000000000000):
     print("wow so sigma")
