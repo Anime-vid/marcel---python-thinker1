@@ -27,4 +27,4 @@
 
 # # Run the function
 # create_invitation()
-name = input("Whar")
+name = input("What is your name?")
