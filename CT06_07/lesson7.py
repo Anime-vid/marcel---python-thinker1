@@ -16,4 +16,5 @@
 times = str(input("times?"))
 for i in range(1,12):
     answer = times * i
+    int
     print(times + "x" + " " + i)
