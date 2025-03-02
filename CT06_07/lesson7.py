@@ -4,5 +4,6 @@
 #     print(i)
 # for b in range(10,0,-1):
 #     print(b)
+reperat = int(input("how many times repert"))
 for i in range(3):
     print("burger")
