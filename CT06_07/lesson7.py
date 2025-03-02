@@ -15,8 +15,6 @@
 # print("Sum of the five numbers is " + str(sum))
 times = int(input("times?"))
 for i in range(1,13):
-    int(i)
     answer = times * i
-    int(i)
     int(times)
     print(times + "x" + " " + i)
