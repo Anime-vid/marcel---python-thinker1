@@ -5,7 +5,7 @@
 # for b in range(10,0,-1):
 #     print(b)
 reperat = int(input("how many times repert"))
-
+word = input("word to repeat?")
 
 for i in range(reperat):
     print("burger")
