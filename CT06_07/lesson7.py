@@ -4,8 +4,11 @@
 #     print(i)
 # for b in range(10,0,-1):
 #     print(b)
-reperat = int(input("how many times repert"))
-word = input("word to repeat?")
+# reperat = int(input("how many times repert"))
+# word = input("word to repeat?")
 
-for i in range(reperat):
-    print(word)
+# for i in range(reperat):
+#     print(word)
+sum = 0
+for i in range(1,6):
+    
