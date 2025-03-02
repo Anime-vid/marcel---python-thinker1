@@ -12,4 +12,4 @@
 sum = 0
 for i in range(1,6):
     sum = sum + int(input("what is number #" + str(i) + "?"))
-print("Sum of the five")
+print("Sum of the five numbers is " )
