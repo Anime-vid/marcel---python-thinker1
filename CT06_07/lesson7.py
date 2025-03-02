@@ -8,4 +8,4 @@ reperat = int(input("how many times repert"))
 word = input("word to repeat?")
 
 for i in range(reperat):
-    print("burger")
+    print(word)
