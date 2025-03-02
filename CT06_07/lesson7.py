@@ -18,4 +18,5 @@ for i in range(1,12):
     str(i)
     answer = times * i
     str(i)
+    str
     print(times + "x" + " " + i)
