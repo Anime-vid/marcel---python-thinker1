@@ -18,5 +18,5 @@
 #     answer = times * i
 #     print(str(times) +  "x "  + str(i) + "=" + str(answer))
 layers = int(input("number of layers?"))
-for i in range(layers):
+for i in range(layers + 1):
     print(i)
