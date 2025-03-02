@@ -9,7 +9,11 @@
 
 # for i in range(reperat):
 #     print(word)
-sum = 0
-for i in range(1,6):
-    sum = sum + int(input("what is number #" + str(i) + "?"))
-print("Sum of the five numbers is " + str(sum))
+# sum = 0
+# for i in range(1,6):
+#     sum = sum + int(input("what is number #" + str(i) + "?"))
+# print("Sum of the five numbers is " + str(sum))
+times = str(input("times?"))
+for i in range(1,12):
+    answer = times * i
+    print("times")
