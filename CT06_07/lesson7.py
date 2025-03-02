@@ -13,7 +13,7 @@
 # for i in range(1,6):
 #     sum = sum + int(input("what is number #" + str(i) + "?"))
 # print("Sum of the five numbers is " + str(sum))
-times = int(input("times?"))
-for i in range(1,13):
-    answer = times * i
-    print(str(times) +  "x "  + str(i) + "=" + str(answer))
+# times = int(input("times?"))
+# for i in range(1,13):
+#     answer = times * i
+#     print(str(times) +  "x "  + str(i) + "=" + str(answer))
