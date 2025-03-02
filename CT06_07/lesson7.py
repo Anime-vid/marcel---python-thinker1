@@ -6,5 +6,6 @@
 #     print(b)
 reperat = int(input("how many times repert"))
 
-for i in range(3):
+
+for i in range(reperat):
     print("burger")
