@@ -11,6 +11,6 @@ increment = input("increment:")
 start = int(start)
 end = int(end)
 increment = int(increment)
-prints out the sequence
+# prints out the sequence
 for i in range(start,end,increment):
     print(i)
