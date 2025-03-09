@@ -15,4 +15,4 @@
 # for i in range(start,end,increment):
 #     print(i)
 num = input("num")
-print(num + 1)
+print(num + "1")
