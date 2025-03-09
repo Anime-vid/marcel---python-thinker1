@@ -5,4 +5,4 @@
 # # next code
 start = input("Start:")
 end = input("end:")
-end = input("end:")
+increment = input("increment:")
