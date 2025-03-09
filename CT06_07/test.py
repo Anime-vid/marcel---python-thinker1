@@ -4,4 +4,4 @@
 # # says nice to meet (the persons name)
 # # next code
 start = input("Start:")
-\
+end = input("Start:")
