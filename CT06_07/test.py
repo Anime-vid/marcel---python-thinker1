@@ -8,6 +8,6 @@ end = input("end:")
 increment = input("increment:")
 start = int(start)
 end = int(end)
-start = int(start)
+increment = int(increment)
 for i in range(start,end,increment):
     print(i)
