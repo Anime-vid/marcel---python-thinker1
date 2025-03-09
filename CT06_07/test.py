@@ -6,6 +6,7 @@
 start = input("Start:")
 end = input("end:")
 increment = input("increment:")
-int
+start = int(start)
+
 for i in range(start,end,increment):
     print(i)
