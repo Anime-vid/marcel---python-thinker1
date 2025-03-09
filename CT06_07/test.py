@@ -7,3 +7,4 @@ start = input("Start:")
 end = input("end:")
 increment = input("increment:")
 for i in range(start,end,increment):
+    print(i)
