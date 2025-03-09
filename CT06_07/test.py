@@ -7,6 +7,7 @@
 start = input("Start:")
 end = input("end:")
 increment = input("increment:")
+# converts all to integer
 start = int(start)
 end = int(end)
 increment = int(increment)
