@@ -14,4 +14,4 @@
 # # prints out the sequence
 # for i in range(start,end,increment):
 #     print(i)
-ag
+num = input("num")
