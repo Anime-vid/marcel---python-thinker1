@@ -3,4 +3,4 @@
 # print("Nice to meet you, " + name)
 # # says nice to meet (the persons name)
 # # next code
-start = input()
+start = input("Start:")
