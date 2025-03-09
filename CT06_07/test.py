@@ -3,7 +3,7 @@
 # print("Nice to meet you, " + name)
 # # says nice to meet (the persons name)
 # # next code
-# asks for the start value
+# asks for the start value,end valu
 start = input("Start:")
 end = input("end:")
 increment = input("increment:")
