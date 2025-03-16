@@ -21,3 +21,5 @@ layers = int(input("number of layers?"))
 for i in range(1,layers + 1):
     
     print(str(i) * i)
+    for i in range(1,6):
+        sun
