@@ -5,4 +5,4 @@
 #     time.sleep(1)
 # print("liftoff")
 import random
-random.randint(0,6)
+random.randint(1,6)
