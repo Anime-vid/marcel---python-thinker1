@@ -26,5 +26,5 @@ num = num + 1
 sum = 0
 for i in range(1,num):
     sum += int(input("what is student " + str(i) + " score?"))
-sum = sum / (num - 1)
-print(sum)
+avg = sum / (num - 1)
+print(avg)
