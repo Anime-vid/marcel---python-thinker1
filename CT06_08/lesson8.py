@@ -16,6 +16,7 @@ import random
 # print(var1 == var2)
 num1 = (random.randint(1,50))
 num2 = (random.randint(1,50))
-ans = input("what is the number?")
-
-print(num1 == int(ans))
+questions = input("how many questions?")
+for i in range(questions):
+    ans = input("what is " + str(num1) + "+" + str(num2))
+    print(num1 + num2 == int(ans))
