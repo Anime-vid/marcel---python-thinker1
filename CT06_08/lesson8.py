@@ -4,5 +4,5 @@
 #     print(i)
 #     time.sleep(1)
 # print("liftoff")
-# import random
+import random
 random.random()
