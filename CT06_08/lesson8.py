@@ -10,4 +10,4 @@
 #     print(random.randint(0,9999))
 var1 = True
 var2 = False
-print()
+print(var1 == var2)
