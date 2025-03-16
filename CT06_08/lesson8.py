@@ -5,3 +5,4 @@ for i in range(count,0,-1):
     time.sleep(1)
 print("liftoff")
 import random
+random
