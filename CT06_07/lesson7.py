@@ -17,9 +17,9 @@
 # for i in range(1,13):
 #     answer = times * i
 #     print(str(times) +  "x "  + str(i) + "=" + str(answer))
-layers = int(input("number of layers?"))
-for i in range(1,layers + 1):
+# layers = int(input("number of layers?"))
+# for i in range(1,layers + 1):
     
-    print(str(i) * i)
-    for i in range(1,6):
-        sum = input("what is student")
+print(str(i) * i)
+for i in range(1,6):
+        sum = input("what is student ")
