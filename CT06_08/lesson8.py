@@ -6,3 +6,5 @@
 # print("liftoff")
 import random
 print(random.randint(1,6))
+for i in range(20):
+    print 
