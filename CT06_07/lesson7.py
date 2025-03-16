@@ -24,7 +24,7 @@
 num = int(input("how many students you have?"))
 num = num + 1
 sum = 0
-for i in range(1,6):
+for i in range(1,num):
     sum += int(input("what is student " + str(i) + " score?"))
 sum = sum / 5
 print(sum)
