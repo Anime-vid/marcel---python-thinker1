@@ -22,6 +22,6 @@
     
 # print(str(i) * i)
 for i in range(1,6):
-    sum = + int(input("what is student " + str(i) + " score?"))
+    sum += int(input("what is student " + str(i) + " score?"))
 sum = sum / 5
 print(sum)
