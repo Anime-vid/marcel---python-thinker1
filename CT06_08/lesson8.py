@@ -9,3 +9,4 @@
 # for i in range(20):
 #     print(random.randint(0,9999))
 var1 = True
+var2 = False
