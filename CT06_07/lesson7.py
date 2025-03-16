@@ -22,7 +22,7 @@
     
 # print(str(i) * i)
 num = int(input("how many students you have?"))
-
+num = num + 1
 sum = 0
 for i in range(1,6):
     sum += int(input("what is student " + str(i) + " score?"))
