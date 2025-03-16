@@ -1,1 +1,2 @@
-inport
+import time
+time.s
