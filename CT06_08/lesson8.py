@@ -1,5 +1,5 @@
 import time
-count = input("Countdown?")
+count = int(input("Countdown?"))
 for i in range(count,0,-1):
     print(i)
     time.sleep(1)
