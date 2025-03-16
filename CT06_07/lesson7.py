@@ -21,7 +21,7 @@
 # for i in range(1,layers + 1):
     
 # print(str(i) * i)
-
+num = input("h")
 sum = 0
 for i in range(1,6):
     sum += int(input("what is student " + str(i) + " score?"))
