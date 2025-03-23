@@ -17,13 +17,16 @@ import random
 
 # questions = input("how many questions?")
 # for i in range(int(questions)):
-#     num1 = (random.randint(1,50))
-#     num2 = (random.randint(1,50))
+num1 = (random.randint(1,6))
+num2 = (random.randint(1,6))
 #     ans = input("what is " + str(num1) + "x" + str(num2))
 #     print(num1 * num2 == int(ans))
 # for i in range(12):
 #     num1 = str((random.randint(0,9)))
 #     num2 = str((random.randint(0,9)))
-#     num3 = str((random.randint(0,9)))
-#     num4 = str((random.randint(0,9)))
+num3 = (random.randint(1,6))
+    # num4 = str((random.randint(0,6)))
 #     print(num1 + num2 + num3 + num4)
+print("num1 = " + str(num1))
+print("num2 = " + str(num2))
+print("num3 = " + str(num3))
