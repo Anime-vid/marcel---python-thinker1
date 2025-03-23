@@ -35,4 +35,4 @@ num3 = (random.randint(1,6))
 # num2 = num2 % 2 == 0
 # ans = num1 == num2 == num3
 # print("All numbers are even/odd: " + str(ans))
-days
+daysBorrowed = in
