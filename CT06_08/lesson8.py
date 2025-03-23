@@ -52,3 +52,10 @@ if orange > 5:
     orange = orange * 90
 else:
     orange = orange * 0.9
+if apple > 5:
+    apple = apple * 0.9
+    apple = apple / 100
+    apple = apple * 90
+else:
+    apple = apple * 0.9
+p
