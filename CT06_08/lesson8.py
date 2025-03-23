@@ -35,6 +35,6 @@ import random
 # num2 = num2 % 2 == 0
 # ans = num1 == num2 == num3
 # print("All numbers are even/odd: " + str(ans))
-daysBorrowed = int(input("days borrowed?"))
-if days > 25:
-    print("Remember to return the book!")
+# daysBorrowed = int(input("days borrowed?"))
+# if days > 25:
+#     print("Remember to return the book!")
