@@ -37,4 +37,4 @@ import random
 # print("All numbers are even/odd: " + str(ans))
 daysBorrowed = int(input("days borrowed?"))
 if days > 25:
-    print("Remember to ")
+    print("Remember to return the book!")
