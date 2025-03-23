@@ -32,3 +32,4 @@ print("num2 = " + str(num2))
 print("num3 = " + str(num3))
 num1 = num1 % 2 == 0
 num3 = num3 % 2 == 0
+num2 = num1 % 2 == 0
