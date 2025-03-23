@@ -47,4 +47,4 @@ import random
 apple = int(input("number of apples?"))
 orange = int(input("number of oranges?"))
 if orange > 5:
-    ora
+    orange = orange * 0.9
