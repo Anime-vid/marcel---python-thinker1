@@ -44,4 +44,4 @@ import random
 #     print("nice job")
 # else:
 #     print("wompwomp")
-apple = int(input(""))
+apple = int(input("number of apples?"))
