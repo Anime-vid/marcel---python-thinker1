@@ -27,11 +27,11 @@ num2 = (random.randint(1,6))
 num3 = (random.randint(1,6))
     # num4 = str((random.randint(0,6)))
 #     print(num1 + num2 + num3 + num4)
-print("num1 = " + str(num1))
-print("num2 = " + str(num2))
-print("num3 = " + str(num3))
-num1 = num1 % 2 == 0
-num3 = num3 % 2 == 0
-num2 = num2 % 2 == 0
-ans = num1 == num2 == num3
-print("All numbers are even/odd: " + str(ans))
+# print("num1 = " + str(num1))
+# print("num2 = " + str(num2))
+# print("num3 = " + str(num3))
+# num1 = num1 % 2 == 0
+# num3 = num3 % 2 == 0
+# num2 = num2 % 2 == 0
+# ans = num1 == num2 == num3
+# print("All numbers are even/odd: " + str(ans))
