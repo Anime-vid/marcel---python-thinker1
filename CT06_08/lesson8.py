@@ -45,3 +45,4 @@ import random
 # else:
 #     print("wompwomp")
 apple = int(input("number of apples?"))
+orange = int(in)
