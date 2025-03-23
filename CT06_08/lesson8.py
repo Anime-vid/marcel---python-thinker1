@@ -38,10 +38,9 @@ import random
 # daysBorrowed = int(input("days borrowed?"))
 # if days > 25:
 #     print("Remember to return the book!")
-ans = random.randint(1,10)
-guess = input("guess my number 1-10?")
-if guess == ans:
-    print("nice job")
-else:
-    print("wompwomp")
-    
+# ans = random.randint(1,10)
+# guess = input("guess my number 1-10?")
+# if guess == ans:
+#     print("nice job")
+# else:
+#     print("wompwomp")
