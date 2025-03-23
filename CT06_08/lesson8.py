@@ -21,9 +21,9 @@ import random
 #     num2 = (random.randint(1,50))
 #     ans = input("what is " + str(num1) + "x" + str(num2))
 #     print(num1 * num2 == int(ans))
-for i in range(12):
-    num1 = str((random.randint(0,9)))
-    num2 = str((random.randint(0,9)))
-    num3 = str((random.randint(0,9)))
-    num4 = str((random.randint(0,9)))
-    print(num1 + num2 + num3 + num4)
+# for i in range(12):
+#     num1 = str((random.randint(0,9)))
+#     num2 = str((random.randint(0,9)))
+#     num3 = str((random.randint(0,9)))
+#     num4 = str((random.randint(0,9)))
+#     print(num1 + num2 + num3 + num4)
