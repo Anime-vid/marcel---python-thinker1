@@ -48,4 +48,4 @@ apple = int(input("number of apples?"))
 orange = int(input("number of oranges?"))
 if orange > 5:
     orange = orange * 0.9
-    or
+    orange = orange 
