@@ -30,4 +30,5 @@ num3 = (random.randint(1,6))
 print("num1 = " + str(num1))
 print("num2 = " + str(num2))
 print("num3 = " + str(num3))
-num1 % 2 == 0
+num1 = num1 % 2 == 0
+num1 = num1 % 2 == 0
