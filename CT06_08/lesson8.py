@@ -58,4 +58,4 @@ if apple > 5:
     apple = apple * 90
 else:
     apple = apple * 0.9
-p
+print("Your total is ")
