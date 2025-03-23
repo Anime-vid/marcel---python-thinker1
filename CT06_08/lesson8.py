@@ -45,4 +45,6 @@ import random
 # else:
 #     print("wompwomp")
 apple = int(input("number of apples?"))
-orange = int(input("number of oranges"))
+orange = int(input("number of oranges?"))
+if orange > 5:
+    ora
