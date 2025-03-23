@@ -49,4 +49,6 @@ orange = int(input("number of oranges?"))
 if orange > 5:
     orange = orange * 0.9
     orange = orange / 100
-    orange = orange
+    orange = orange * 90
+else:
+    orange = orange * 0.9
