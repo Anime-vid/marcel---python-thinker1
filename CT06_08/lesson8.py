@@ -38,4 +38,4 @@ import random
 # daysBorrowed = int(input("days borrowed?"))
 # if days > 25:
 #     print("Remember to return the book!")
-g
+guess = input("")
