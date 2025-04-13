@@ -11,4 +11,4 @@ while True:
         print(visitors)
     if visitors == max:
         break
-        print()
+        print("max reached")
