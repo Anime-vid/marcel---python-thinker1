@@ -15,7 +15,7 @@
 order = "wswnj"
 while True:
     item = input("what u want?")
-    order  =+ "," + item
+    order  += "," + item
     if item == "end":
         print(order)
         break
