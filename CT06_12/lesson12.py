@@ -5,7 +5,7 @@
 visitors = int(input("num of visitors?"))
 max = int(input("max num of visitors?"))
 while True:
-    inputu = input("")
+    inputu = input("add visitor?")
     if inputu == "yes":
         visitors += 1
     if visitors < max:
