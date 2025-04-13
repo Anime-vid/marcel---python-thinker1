@@ -16,8 +16,6 @@ order = ""
 item = input("what u want?")
 order += item
 while True:
-    item = input("what u want?")
-    order += item
     if item == "end":
         print(order)
         break
