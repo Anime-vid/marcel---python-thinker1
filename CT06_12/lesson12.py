@@ -12,7 +12,7 @@
 #     if visitors == max:
 #         print("max reached")
 #         break
-order = "wswnj"
+order = ""
 while True:
     item = input("what u want?")
     if item == "end":
