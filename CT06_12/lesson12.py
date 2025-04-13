@@ -17,4 +17,4 @@ while True:
     order  =+ "," + item
     if item == "end":
         print(order)
-        breakreak
+        break
