@@ -20,3 +20,19 @@ while True:
         break
     else:
         order += "," + item
+
+# order = ""
+# skipComma = True
+
+# while True:
+#     item = input("What item do you want to order? ")
+#     if item == "end":
+#         break
+#     else:
+#         if skipComma:
+#             order += item
+#             skipComma = False
+#         else:
+#             order += ", " + item
+
+# print(order)
