@@ -9,5 +9,6 @@ while True:
     if inputu == "y":
         visitors += 1
         print(visitors)
-    if visitors > max:
+    if visitors == max:
         break
+        print()
