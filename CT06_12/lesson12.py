@@ -12,3 +12,4 @@
 #     if visitors == max:
 #         print("max reached")
 #         break
+item = input("")
