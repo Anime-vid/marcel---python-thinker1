@@ -4,3 +4,5 @@
 #     print("The number is not divisible by 3 and 5!")
 visitors = 0
 while visitors < 50:
+    visitors + 1
+    print(visitors)
