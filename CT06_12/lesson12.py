@@ -36,3 +36,8 @@
 #             order += ", " + item
 
 # print(order)
+while not num == 0:
+    print(num)
+    num -= 1
+else:
+    print("Happy New Year")
