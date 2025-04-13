@@ -2,7 +2,7 @@
 #     print("The number is divisible by 3 and 5!")
 # else:
 #     print("The number is not divisible by 3 and 5!")
-visitors = int(input("num of visitors?"))
+visitors = int(input("num of current visitors?"))
 max = int(input("max num of visitors?"))
 while True:
     inputu = input("add visitor?")
