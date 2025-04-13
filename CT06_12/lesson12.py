@@ -3,7 +3,7 @@
 # else:
 #     print("The number is not divisible by 3 and 5!")
 visitors = int(input("num of visitors?"))
-max = int(input(" num of visitors?"))
-while visitors < 50:
+max = int(input("max num of visitors?"))
+while visitors < max:
     visitors = visitors + 1
     print(visitors)
