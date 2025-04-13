@@ -19,3 +19,5 @@ while True:
     if item == "end":
         print(order)
         break
+    else:
+        order  += "," + item
