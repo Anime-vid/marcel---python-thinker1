@@ -13,6 +13,8 @@
 #         print("max reached")
 #         break
 order = ""
+item = input("what u want?")
+order += item
 while True:
     item = input("what u want?")
     order += item
