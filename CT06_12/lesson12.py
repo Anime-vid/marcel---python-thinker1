@@ -4,11 +4,11 @@
 #     print("The number is not divisible by 3 and 5!")
 visitors = int(input("num of current visitors?"))
 max = int(input("max num of visitors?"))
-while True:
-    inputu = input("add visitor?")
-    if inputu == "y":
-        visitors += 1
-        print(visitors)
-    if visitors == max:
-        print("max reached")
-        break
+# while True:
+#     inputu = input("add visitor?")
+#     if inputu == "y":
+#         visitors += 1
+#         print(visitors)
+#     if visitors == max:
+#         print("max reached")
+#         break
