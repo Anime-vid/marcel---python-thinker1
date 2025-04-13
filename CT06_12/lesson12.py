@@ -9,5 +9,5 @@ while True:
     if inputu == "yes":
         visitors += 1
         print(visitors)
-    if visitors < max:
+    if visitors > max:
         break
