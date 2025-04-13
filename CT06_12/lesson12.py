@@ -36,6 +36,7 @@
 #             order += ", " + item
 
 # print(order)
+num = 10
 while not num == 0:
     print(num)
     num -= 1
