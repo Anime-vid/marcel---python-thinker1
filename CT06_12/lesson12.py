@@ -8,5 +8,6 @@ while True:
     inputu = input("add visitor?")
     if inputu == "yes":
         visitors += 1
+        print(visitors)
     if visitors < max:
         break
