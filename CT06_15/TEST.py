@@ -14,6 +14,6 @@ planets.pop(6)
 # 4. Remove uranus from this list.
 # 5. Using a for loop, print all the planets  from this list one by one.
 counter = 0
-for i in range(counter):
+for i in range(7):
     print(planets[i])
     counter = counter + 1
