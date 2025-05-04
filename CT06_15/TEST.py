@@ -13,3 +13,5 @@ planets[3] = "muskworld"
 planets.pop(6)
 # 4. Remove uranus from this list.
 # 5. Using a for loop, print all the planets  from this list one by one.
+for item in planets(len(planets)):
+    print
