@@ -8,6 +8,9 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[3])
 # 2. Write code to append neptune to this list.
 planets.append("neptune")
+#    Rename Mars in the list to be "muskworld"
 planets[3] = "muskworld"
 planets.pop(6)
+# 4. Remove uranus from this list.
+
 print(planets)
