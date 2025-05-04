@@ -2,8 +2,11 @@
 # while num != 210:
 #     print(num)
 #     num += 10
+# 1. Write code below to print the 3rd item 
+#    in this list using index e.g. earth
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[3])
+
 planets.append("neptune")
 planets[3] = "muskworld"
 planets.pop(6)
