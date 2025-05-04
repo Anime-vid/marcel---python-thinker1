@@ -16,4 +16,4 @@ planets.pop(6)
 counter = 0
 for item in planets(counter):
     print(item)
-    counter 
+    counter + 1
