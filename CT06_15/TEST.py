@@ -1,2 +1,2 @@
 passwd = superpass123
-user_input = input()
+user_input = input("What is the password?")
