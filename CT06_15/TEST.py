@@ -5,7 +5,7 @@
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
-print(planets[4])
+print(planets[2])
 # 2. Write code to append neptune to this list.
 planets.append("neptune")
 #    Rename Mars in the list to be "muskworld"
