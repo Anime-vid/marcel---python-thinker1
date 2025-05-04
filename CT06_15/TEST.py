@@ -1,4 +1,4 @@
 num = 10
-while num != 200:
+while num != 210:
     print(num)
     num += 10
