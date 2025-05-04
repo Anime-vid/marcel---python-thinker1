@@ -4,4 +4,5 @@
 #     num += 10
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[3])
-planets.append("nep")
+planets.append("neptune")
+print()
