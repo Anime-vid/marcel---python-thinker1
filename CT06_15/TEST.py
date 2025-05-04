@@ -15,5 +15,5 @@ planets.pop(6)
 # 5. Using a for loop, print all the planets  from this list one by one.
 counter = 0
 for i in range(counter):
-    print(i)
+    print(planets[i])
     counter = counter + 1
