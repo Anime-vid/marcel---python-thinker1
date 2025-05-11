@@ -16,6 +16,6 @@
 # funsd()
 def cou():
     global counter
-    counter =+ 1
+    counter = counter + 1
 cou()
 print(counter)
