@@ -32,3 +32,4 @@
 #     print(str(numbers) + " is odd")
 def square(num):
     return num * num
+square(50)
