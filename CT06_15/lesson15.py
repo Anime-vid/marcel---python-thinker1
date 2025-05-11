@@ -30,6 +30,7 @@
 #         print(str(numbers) + " is even")
 # else:
 #     print(str(numbers) + " is odd")
-def square(num):
+def square(num,num2):
     return num * num
+
 print(square(50))
