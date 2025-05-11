@@ -30,3 +30,5 @@
 #         print(str(numbers) + " is even")
 # else:
 #     print(str(numbers) + " is odd")
+def square(num):
+    return 
