@@ -22,5 +22,6 @@
 # cou()
 # cou()
 # print(counter)
+num = 0
 def espar(num):
     return num % 2 == 0
