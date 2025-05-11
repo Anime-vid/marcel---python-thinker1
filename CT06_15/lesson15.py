@@ -27,4 +27,4 @@ def espar(num):
 numbers = [3,9,2,8,5,4]
 for numbers in numbers:
     if espar(numbers):
-        print()
+        print(str(numbers + " is even"))
