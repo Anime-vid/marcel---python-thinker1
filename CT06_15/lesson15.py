@@ -14,11 +14,13 @@
 #         t.forward(100)
 #     window.mainloop()
 # funsd()
-counter = 0
-def cou():
-    global counter
-    counter = counter + 1
-cou()
-cou()
-cou()
-print(counter)
+# counter = 0
+# def cou():
+#     global counter
+#     counter = counter + 1
+# cou()
+# cou()
+# cou()
+# print(counter)
+def espar(num):
+    return num
