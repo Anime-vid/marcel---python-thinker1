@@ -19,4 +19,6 @@ def cou():
     global counter
     counter = counter + 1
 cou()
+cou()
+cou()
 print(counter)
