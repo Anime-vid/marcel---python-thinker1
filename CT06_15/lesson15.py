@@ -14,3 +14,4 @@ def funsd():
         t.left(100)
         t.forward(100)
     window.mainloop()
+funsd
