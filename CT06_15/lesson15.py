@@ -18,4 +18,4 @@ def cou():
     global counter
     counter =+ 1
 cou()
-print
+print(counter)
