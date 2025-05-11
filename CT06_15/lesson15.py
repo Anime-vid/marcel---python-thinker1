@@ -24,3 +24,4 @@
 # print(counter)
 def espar(num):
     return num % 2 == 0
+numbers = []
