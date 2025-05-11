@@ -22,11 +22,11 @@
 # cou()
 # cou()
 # print(counter)
-def espar(num):
-    return num % 2 == 0
-numbers = [3,9,2,8,5,4]
-for numbers in numbers:
-    if espar(numbers):
-        print(str(numbers) + " is even")
-else:
-    print(str(numbers) + " is odd")
+# def espar(num):
+#     return num % 2 == 0
+# numbers = [3,9,2,8,5,4]
+# for numbers in numbers:
+#     if espar(numbers):
+#         print(str(numbers) + " is even")
+# else:
+#     print(str(numbers) + " is odd")
