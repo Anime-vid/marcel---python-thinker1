@@ -15,4 +15,5 @@
 #     window.mainloop()
 # funsd()
 def cou():
-    
+    global counter
+    counter =+ 1
