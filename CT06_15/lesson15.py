@@ -5,8 +5,7 @@ def funsd():
     t = turtle.Turtle()
     t.shape("turtle")
     t.fillcolor("orange")
-
-# t.shape("square")
+ # t.shape("square")
 # t.fillcolor("green")
     t.pendown()
 
