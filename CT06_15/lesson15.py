@@ -14,6 +14,7 @@
 #         t.forward(100)
 #     window.mainloop()
 # funsd()
+counter = 0
 def cou():
     global counter
     counter = counter + 1
