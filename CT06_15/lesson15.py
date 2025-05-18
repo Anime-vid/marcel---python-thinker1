@@ -47,3 +47,4 @@ def bule_ball():
     t = turtle.Turtle()
     t.shape("circle")
     t.fillcolor("blue")
+    t.pen
