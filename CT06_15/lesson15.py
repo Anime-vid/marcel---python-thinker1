@@ -47,7 +47,8 @@ def bule_ball():
     t.shape("circle")
     t.fillcolor("blue")
     t.penup()
-
+def MOVE_BALL(ball,dx,dy):
+    turtle.setx()
 window = screensetup(300,500)
 ball = bule_ball()
 window.mainloop()
