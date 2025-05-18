@@ -30,8 +30,8 @@
 #         print(str(numbers) + " is even")
 # else:
 #     print(str(numbers) + " is odd")
-def square(num):
-    return num * num
-def squareadd(num,num2):
-    return num * num + num2 * num
-print(squareadd(50,100))
+# def square(num):
+#     return num * num
+# def squareadd(num,num2):
+#     return num * num + num2 * num
+# print(squareadd(50,100))
