@@ -47,5 +47,7 @@ def bule_ball():
     t.shape("circle")
     t.fillcolor("blue")
     t.penup()
+
+
 bule_ball()
 window.mainloop()
