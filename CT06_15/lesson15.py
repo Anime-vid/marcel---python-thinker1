@@ -56,4 +56,5 @@ window = screensetup(300,500)
 ball = bule_ball()
 while True:
     MOVE_BALL(2,2)
+    window.mainloop()
 
