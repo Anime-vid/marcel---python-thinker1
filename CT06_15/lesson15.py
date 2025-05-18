@@ -1,4 +1,5 @@
 import turtle
+
 def turtlr(x,y,z):
     import turtle
     window = turtle.Screen()
@@ -41,6 +42,8 @@ def screensetup(a,b):
     global window
     window = turtle.Screen()
     window.setup(width=a, height=b)
+    # global a
+    # global b
     return window
 def bule_ball():
     global t
@@ -52,9 +55,13 @@ def MOVE_BALL(dx,dy):
 
     t.setx(t.xcor() + dx)
     t.sety(t.ycor() + dy)
-window = screensetup(300,500)
+width = 300
+height = 500
+window = screensetup(width,height)
 ball = bule_ball()
-de
+def check_x():
+    if t.xcor() > (width/2) or t.xcor < (-width/2):
+    if t.ycor() > (height/2) or t.ycor < (-height/2):
 while True:
     MOVE_BALL(2,2)
     window.mainloop()
