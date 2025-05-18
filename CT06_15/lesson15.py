@@ -37,4 +37,4 @@ def turtlr(x,y,z):
 # print(squareadd(50,100))
 # turtlr(6,50,60)
 def screensetup(a,b):
-    scree = turtle.sc
+    scree = turtle.Screen()
