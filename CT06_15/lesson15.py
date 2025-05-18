@@ -48,4 +48,4 @@ def bule_ball():
     window = turtle.Screen()
     t = turtle.Turtle()
     t.shape("circle")
-    t.fillcolor("orange")
+    t.fillcolor("blue")
