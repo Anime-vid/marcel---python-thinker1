@@ -48,6 +48,6 @@ def bule_ball():
     t.fillcolor("blue")
     t.penup()
 
-window 
+window = screensetup(300,500)
 bule_ball()
 window.mainloop()
