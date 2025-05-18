@@ -37,6 +37,7 @@ def turtlr(x,y,z):
 # print(squareadd(50,100))
 # turtlr(6,50,60)
 def screensetup(a,b):
+    global window
     window = turtle.Screen()
     window.setup(width=a, height=b)
     return window
