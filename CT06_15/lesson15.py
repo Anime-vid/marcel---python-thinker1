@@ -38,4 +38,4 @@ def turtlr(x,y,z):
 # turtlr(6,50,60)
 def screensetup(a,b):
     window = turtle.Screen()
-    window.setup(width=300, height=500)
+    window.setup(width=a, height=b)
