@@ -9,8 +9,8 @@ def turtlr(x,y):
 # t.fillcolor("green")
     t.pendown()
     for i in range(x):
-        t.left(100)
-        t.forward(100)
+        t.left(y)
+        t.forward(y)
     window.mainloop()
 # funsd()
 # counter = 0
