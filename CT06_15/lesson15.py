@@ -47,5 +47,5 @@ def bule_ball():
     import turtle
     window = turtle.Screen()
     t = turtle.Turtle()
-    t.shape("turtle")
+    t.shape("circle")
     t.fillcolor("orange")
