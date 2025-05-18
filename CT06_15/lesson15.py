@@ -8,11 +8,10 @@ def turtlr():
 # t.shape("square")
 # t.fillcolor("green")
     t.pendown()
-
-    for i in range(360):
-        t.left(100)
-        t.forward(100)
-    window.mainloop()
+    # for i in range(360):
+    #     t.left(100)
+    #     t.forward(100)
+    # window.mainloop()
 # funsd()
 # counter = 0
 # def cou():
