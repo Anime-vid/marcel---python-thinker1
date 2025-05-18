@@ -48,6 +48,6 @@ def bule_ball():
     t.fillcolor("blue")
     t.penup()
 
-
+window 
 bule_ball()
 window.mainloop()
