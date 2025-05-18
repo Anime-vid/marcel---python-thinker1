@@ -34,4 +34,4 @@ def turtlr(x,y):
 # def squareadd(num,num2):
 #     return num * num + num2 * num
 # print(squareadd(50,100))
-turtlr(4,50)
+turtlr(6,50)
