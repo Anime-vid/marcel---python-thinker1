@@ -1,4 +1,4 @@
-def turtlr(x,y):
+def turtlr(x,y,z):
     import turtle
     window = turtle.Screen()
     window.setup(width=600, height=400)
@@ -9,7 +9,7 @@ def turtlr(x,y):
 # t.fillcolor("green")
     t.pendown()
     for i in range(x):
-        t.left(90)
+        t.left(z)
         t.forward(y)
     window.mainloop()
 # funsd()
