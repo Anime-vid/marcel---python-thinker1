@@ -51,7 +51,7 @@ def bule_ball():
 def MOVE_BALL(ball,dx,dy):
 
     t.setx(t.xcor() + dx)
-    t.setx(t.ycor() + dy)
+    t.sety(t.ycor() + dy)
 window = screensetup(300,500)
 ball = bule_ball()
 window.mainloop()
