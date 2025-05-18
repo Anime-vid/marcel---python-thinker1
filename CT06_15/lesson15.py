@@ -41,4 +41,4 @@ def screensetup(a,b):
     window = turtle.Screen()
     window.setup(width=a, height=b)
     return window
-window
+window.mainloop()
