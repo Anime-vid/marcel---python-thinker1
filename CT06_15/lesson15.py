@@ -49,5 +49,5 @@ def bule_ball():
     t.penup()
 
 window = screensetup(300,500)
-bule_ball()
+ball = bule_ball()
 window.mainloop()
