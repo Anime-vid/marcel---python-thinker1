@@ -43,3 +43,10 @@ def screensetup(a,b):
     window.setup(width=a, height=b)
     return window
 window.mainloop()
+def bule_ball():
+    import turtle
+    window = turtle.Screen()
+    window.setup(width=600, height=400)
+    t = turtle.Turtle()
+    t.shape("turtle")
+    t.fillcolor("orange")
