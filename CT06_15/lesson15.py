@@ -9,7 +9,7 @@ def turtlr(x,y):
 # t.fillcolor("green")
     t.pendown()
     for i in range(x):
-        t.left(y)
+        t.left(90)
         t.forward(y)
     window.mainloop()
 # funsd()
