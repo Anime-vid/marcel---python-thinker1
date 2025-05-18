@@ -54,6 +54,7 @@ def MOVE_BALL(dx,dy):
     t.sety(t.ycor() + dy)
 window = screensetup(300,500)
 ball = bule_ball()
+de
 while True:
     MOVE_BALL(2,2)
     window.mainloop()
