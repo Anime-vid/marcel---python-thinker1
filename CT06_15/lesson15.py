@@ -43,13 +43,14 @@ def screensetup(a,b):
     window.setup(width=a, height=b)
     return window
 def bule_ball():
+    global t
     t = turtle.Turtle()
     t.shape("circle")
     t.fillcolor("blue")
     t.penup()
 def MOVE_BALL(ball,dx,dy):
     t.xcor()
-    turtle.setx()
+    t.setx()
 window = screensetup(300,500)
 ball = bule_ball()
 window.mainloop()
