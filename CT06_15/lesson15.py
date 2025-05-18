@@ -48,7 +48,7 @@ def bule_ball():
     t.shape("circle")
     t.fillcolor("blue")
     t.penup()
-x
+xcorq = 0
 def MOVE_BALL(ball,dx,dy):
     t.xcor(xcorq)
     t.setx()
